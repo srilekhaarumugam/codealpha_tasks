@@ -16,10 +16,13 @@ Console-based user interaction
 How to Run
 
 Compile the program:
+
 javac StudentManagementSystem.java
 
 Run the program:
+
 java StudentManagementSystem
 
-Project Type
+Project Type:
+
 Console-based Java application.
