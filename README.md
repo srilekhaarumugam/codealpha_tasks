@@ -11,14 +11,15 @@ Technologies Used
 Java
 ArrayList for data storage
 Console-based user interaction
+
+
 How to Run
+
 Compile the program:
-Copy code
-
 javac StudentManagementSystem.java
-Run the program:
-Copy code
 
+Run the program:
 java StudentManagementSystem
+
 Project Type
 Console-based Java application.
